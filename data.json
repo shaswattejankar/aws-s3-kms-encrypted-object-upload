@@ -1,0 +1,8 @@
+{
+    "id":123456,
+    "name":"name name",
+    "credentials":{
+        "username":"user name",
+        "password":"password"
+    }
+}
